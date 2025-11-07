@@ -18,3 +18,26 @@ This model uses **Logistic Regression** and is deployed as an interactive **Stre
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+📊 Example Output
+
+The app predicts:
+
+🔹 Malignant (Cancerous)
+🔹 Benign (Non-Cancerous)
+
+based on user input features.
+
+
+
+
+
+
+👨‍💻 Author
+
+Ashi KM
+GitHub: @ashi4evr1
+
+
